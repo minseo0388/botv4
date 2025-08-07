@@ -1,0 +1,9 @@
+{
+  "token": "YOUR_BOT_TOKEN_HERE",
+  "prefix": "n>",
+  "osuApiKey": "YOUR_OSU_API_KEY_HERE",
+  "owners": ["YOUR_USER_ID_HERE"],
+  "spotifyClientId": "YOUR_SPOTIFY_CLIENT_ID",
+  "spotifyClientSecret": "YOUR_SPOTIFY_CLIENT_SECRET",
+  "appleMusicKey": "YOUR_APPLE_MUSIC_KEY"
+}

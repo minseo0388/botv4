@@ -1,0 +1,29 @@
+{
+  "name": "harmony-bot-example",
+  "version": "1.0.0",
+  "description": "A Discord Bot using Harmony, a Discord API Library",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@harmonyland/harmony": "^2.9.1",
+    "node-fetch": "^2.7.0",
+    "superagent": "^8.1.2",
+    "melon-chart-api": "^1.0.0",
+    "ytdl-core": "^4.11.5",
+    "youtube-sr": "^4.3.4",
+    "@discordjs/voice": "^0.16.0",
+    "ffmpeg-static": "^5.2.0",
+    "sodium": "^3.0.2"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "harmony",
+    "discord-bot"
+  ],
+  "author": "",
+  "license": "ISC"
+}
